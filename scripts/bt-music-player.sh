@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Headless BT & USB music player
+#
+# Copyright (c) 2020 - present, harishkv.tech@gmail.com
+# All rights reserved.
+#
+# For the license information refer to LICENSE
+
 MAC=""
 LOCAL_DIR="/home/btplayer/Music"
 USB_DIR=""
